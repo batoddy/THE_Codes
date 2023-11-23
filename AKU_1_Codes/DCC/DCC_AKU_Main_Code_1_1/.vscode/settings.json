@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "yrt_simplekalman.h": "c",
+        "dcc_variables.h": "c"
+    }
+}
